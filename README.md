@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Nur Qalik</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-<p align="left"> <a href="https://twitter.com/nurqalik" target="blank"><img src="https://img.shields.io/twitter/follow/nurqalik?logo=twitter&style=for-the-badge" alt="nurqalik" /></a> </p>
-
 - 🔭 I’m currently working at **Plato as a Front-end Dev**
 
 - 🌱 I’m currently learning **Nextjs and another FE framework as well**
