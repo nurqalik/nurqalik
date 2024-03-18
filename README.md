@@ -1,4 +1,4 @@
-# 💫 <h1 align="center">Hi 👋, I'm Nur Qalik</h1>
+<h1 align="center">Hi 👋, I'm Nur Qalik</h1>
 
 - 🔭 I’m currently working at **Plato as a Front-end Dev**
 
