@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Nextjs and another FE framework as well**
 
-- 👨‍💻 All of my projects are available at [nurqalik.my.id](nurqalik.my.id)
+- 👨‍💻 All of my projects preview are available at [nurqalik.my.id](nurqalik.my.id)
 
 - 💬 Ask me about **anything I do open discus for any topic**
 
