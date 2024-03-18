@@ -4,17 +4,17 @@
 
 <p align="left"> <a href="https://twitter.com/nurqalik" target="blank"><img src="https://img.shields.io/twitter/follow/nurqalik?logo=twitter&style=for-the-badge" alt="nurqalik" /></a> </p>
 
-- 🔭 I’m currently working on **Plato as a Front-end Dev**
+- 🔭 I’m currently working at **Plato as a Front-end Dev**
 
 - 🌱 I’m currently learning **Nextjs and another FE framework as well**
 
 - 👨‍💻 All of my projects are available at [nurqalik.my.id](nurqalik.my.id)
 
-- 💬 Ask me about **anything i do open discus for any topic**
+- 💬 Ask me about **anything I do open discus for any topic**
 
 - 📫 How to reach me **qaliksulistyo@gmail.com**
 
-- ⚡ Fun fact **I'd like to playing games and listen some music in my free time**
+- ⚡ Fun fact **I'd like to play games and listen to some music in my free time**
 
 
 ## 🌐 Socials:
