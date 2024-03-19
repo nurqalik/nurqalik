@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working at **Plato as a Front-end Dev**
 
-- 🌱 I’m currently learning **Nextjs and another FE framework as well**
+- 🌱 I’m lately learning **Nextjs and another FE framework as well**
 
 - 👨‍💻 All of my projects preview are available at [nurqalik.my.id](https://nurqalik.my.id)
 
