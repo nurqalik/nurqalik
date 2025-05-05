@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nur Qalik</h1>
 
-- 🔭 I’m currently working at **Plato as a Front-end Dev**
+- 🔭 I’m currently working at **Tri Venterium Digital as a Fullstack Developer**
 
 - 🌱 I’m lately learning **Nextjs and another FE framework as well**
 
-- 👨‍💻 All of my projects preview are available at [nurqalik.my.id](https://nurqalik.my.id)
+- 👨‍💻 All of my projects preview are available at [nurqalik-dev.vercel.app](https://nurqalik-dev.vercel.app)
 
 - 💬 Ask me about **anything I do open discus for any topic**
 
