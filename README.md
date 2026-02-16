@@ -4,7 +4,7 @@
 
 - 🌱 I’m lately learning **Nextjs and another FE framework as well**
 
-- 👨‍💻 All of my project previews are available at [nurqalik-dev.vercel.app](https://dev-nurqalik.vercel.app)
+- 👨‍💻 All of my project previews are available at [dev-nurqalik.vercel.app](https://dev-nurqalik.vercel.app)
 
 - 💬 Ask me about **anything. I do open a discussion for any topic**
 
